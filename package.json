@@ -1,0 +1,24 @@
+{
+  "name": "tecblogg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoelBal/tecblogg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoelBal/tecblogg/issues"
+  },
+  "homepage": "https://github.com/JoelBal/tecblogg#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
