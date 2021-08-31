@@ -1,5 +1,12 @@
+[
 {
-    "name": "",
-    "email": "",
-    "password": ""
+    "name": "Joel",
+    "email": "gmenfan@sbcglobal.net",
+    "password": "password1234"
+},
+{
+    "name": "Billy",
+    "email": "billybob@sbcglobal.net",
+    "password": "password1234"
 }
+]
