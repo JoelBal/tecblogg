@@ -1,12 +1,14 @@
 [
-{
-    "name": "Joel",
-    "email": "gmenfan@sbcglobal.net",
-    "password": "password1234"
-},
-{
-    "name": "Billy",
-    "email": "billybob@sbcglobal.net",
-    "password": "password1234"
-}
+    {
+        "username": "Joel",
+        "password": "54321"
+    },
+    {
+        "username": "Bob",
+        "password": "67890"
+    },
+    {
+        "username": "John",
+        "password": "7654321"
+    }
 ]

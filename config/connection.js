@@ -13,9 +13,19 @@ if (process.env.JAWSDB_URL) {
     {
       host: 'localhost',
       dialect: 'mysql',
-      port: 3306
-    }
-  );
+      port: 3306,
+        // Your username
+  user: 'root',
+  // Your password
+  password: 'Guard#54',
+  database: 'techblogg_db',
+    });
+    // try {
+    //   runMysql();
+    // } catch(error) {
+    //   console.error(error);
+    // }
+  
 }
 
 module.exports = sequelize;
