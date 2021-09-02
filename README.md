@@ -11,7 +11,7 @@ Constributing
 
 Test
 https://github.com/JoelBal/tecblogg.git
-
+https://techbloggjb.herokuapp.com/
 
 
 
