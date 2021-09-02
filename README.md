@@ -1,4 +1,4 @@
-FitTrack
+TechBlogg
 
 Description
 This application is a site for Bloggers to add there comments and be stored into a database
